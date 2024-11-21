@@ -1,7 +1,6 @@
 # Data-visualization-Dashboard
 Build a data dashboard that visualizes datasets using libraries like `D3.js` or `Chart.js`, and allows users to interact with the visualizations
 
-![Data 1](https://github.com/user-attachments/assets/b49d0358-8743-4838-899a-cff7a9bf1252)
-![Data 2](https://github.com/user-attachments/assets/7592c6a0-cfba-445f-8c94-a8f37402a178)
-![Data 3](https://github.com/user-attachments/assets/ea3d19b9-2952-4c4f-8c00-7f26803b742f)
-
+![Data 1](https://github.com/user-attachments/assets/1e29e85c-0d49-49c6-a43a-be89bdb75373)
+![Data 2](https://github.com/user-attachments/assets/eb2ad53c-eac6-426c-90c8-44ed4d38c4ad)
+![Data 3](https://github.com/user-attachments/assets/fa1a1201-e6fa-4f6f-9112-25b011fbb502)
